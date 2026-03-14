@@ -1,0 +1,15 @@
+{
+  "blogName": "My AI Blog",
+  "blogDescription": "A minimalist blog powered by AI",
+  "author": "Admin",
+  "contactEmail": "admin@email.com",
+  "theme": {
+    "mode": "dark",
+    "primaryColor": "#7a3cff",
+    "neonColor": "#9b5cff"
+  },
+  "features": {
+    "comments": false,
+    "analytics": false
+  }
+}
